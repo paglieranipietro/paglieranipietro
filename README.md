@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Pietro 👋
+## Chi sono
+- 🎓 Studente di **Informatica** all'IIS Castelli.
+- 💻 Appassionato di **programmazione** e **intelligenza artificiale**.
+- 🌱 Sto attualmente imparando **Machine Learning** e **Python**.
+- 🚀 Sempre pronto a nuove avventure!
 
-<!--
-**paglieranipietro/paglieranipietro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Competenze
+### Linguaggi e strumenti
+- **Linguaggi**: Python, Java, HTML/CSS, C/C++
+- **Framework**: Bootstrap, javafx
+- **Strumenti**: Git, JetBrains tools
 
-Here are some ideas to get you started:
+### Altre competenze
+- Codici semplici nei vari linguaggi
+- Utilizzo di schede programmabili come arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatti
+- 📧 Email: [pietro@paglierani.org](mailto:pietro@paglierani.org)
+- 🌐 CV: [Curriculum vitae](https://paglieranipietro.github.io/curriculum/)
