@@ -1,4 +1,5 @@
-## Hi there, I'm Pietro 👋
+### Hi there, I'm Pietro 👋
+
 ## Chi sono
 - 🎓 Studente di **Informatica** all'IIS Castelli.
 - 💻 Appassionato di **programmazione** e **intelligenza artificiale**.
