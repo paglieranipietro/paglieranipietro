@@ -19,3 +19,5 @@
 ## Contatti
 - 📧 Email: [pietro@paglierani.org](mailto:pietro@paglierani.org)
 - 🌐 CV: [Curriculum vitae](https://paglieranipietro.github.io/curriculum/)
+
+⭐ Da [Pietro Paglierani](https://github.com/paglieranipietro)
