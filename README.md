@@ -1,4 +1,4 @@
-# Hi there, I'm Pietro 👋
+# <h1 align="center"> Hi there, I'm Pietro 👋 </h1>
 
 ## Chi sono
 - 🎓 Studente di **Informatica** all'IIS Castelli.
