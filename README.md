@@ -11,6 +11,7 @@
 - **Linguaggi**: Python, Java, HTML/CSS, C/C++
 - **Framework**: Bootstrap, javafx
 - **Strumenti**: Git, JetBrains tools
+<div align = center><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paglieranipietro&hide_border=true&layout=compact" width = 50% align = center></div>
 
 ### Altre competenze
 - Codici semplici nei vari linguaggi
